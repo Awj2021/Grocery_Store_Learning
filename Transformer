@@ -3,8 +3,8 @@
 来源：知乎
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
-1，请阐述 Transformer 能够进行训练来表达和生成信息背后的数学假设，什么数学模型 或者公式支持了 Transformer 模型的训练目标？请展示至少一个相关数学公式的具体推 导过程。
-2，Transformer 中的可训练 Queries、Keys 和 Values 矩阵从哪儿来？Transformer 中为 何会有 Queries、Keys 和 Values 矩阵，只设置 Values 矩阵本身来求 Attention 不是更简 单吗？ 
+1，请阐述 Transformer 能够进行训练来表达和生成信息背后的数学假设，什么数学模型或者公式支持了Transformer模型的训练目标？请展示至少一个相关数学公式的具体推导过程。
+2，Transformer 中的可训练 Queries、Keys 和 Values 矩阵从哪儿来？Transformer 中为 何会有 Queries、Keys 和 Values 矩阵，只设置 Values 矩阵本身来求 Attention 不是更简单吗？ 
 3，Transformer 的 Feed Forward 层在训练的时候到底在训练什么？ 
 4，请具体分析 Transformer 的 Embeddigns 层、Attention 层和 Feedforward 层的复杂度 
 5，Transformer 的 Positional Encoding 是如何表达相对位置关系的，位置信息在不同的 Encoder 的之间传递会丢失吗？
